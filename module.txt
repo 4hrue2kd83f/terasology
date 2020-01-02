@@ -1,8 +1,8 @@
 {
     "id" : "terasology",
-    "version" : "021635",
+    "version" : "0.1.0-SNAPSHOT",
     "author" : "4hrue2kd83f",
-    "displayName" : "Example Module",
+    "displayName" : "4hrue Module",
     "description" : "",
     "dependencies" : [],
     "serverSideOnly" : false
