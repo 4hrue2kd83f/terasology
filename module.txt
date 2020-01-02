@@ -1,8 +1,8 @@
 {
     "id" : "terasology",
-    "version" : "0.1.0-SNAPSHOT",
-    "author" : "",
-    "displayName" : "terasology",
+    "version" : "021635",
+    "author" : "4hrue2kd83f",
+    "displayName" : "Example Module",
     "description" : "",
     "dependencies" : [],
     "serverSideOnly" : false
